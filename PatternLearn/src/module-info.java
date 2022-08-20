@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author jaspa
+ *
+ */
+module PatternLearn {
+}
